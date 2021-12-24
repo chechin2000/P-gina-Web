@@ -1,2 +1,2 @@
-# P-gina-Web
+# Pagina-Web
 Esta es una de mis primeras páginas web
